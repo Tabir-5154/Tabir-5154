@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tabir-5154
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C++,Javascript, HTML,CSS.
